@@ -291,6 +291,10 @@ body{
      padding-right: 2%;
      padding-bottom: 5%;
   }
+  
+  .skills{
+    margin-top:20px;
+  }
 
   .social{
     visibility: hidden;
