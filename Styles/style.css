@@ -70,8 +70,7 @@ body{
   }
 
   .skills{
-    padding-left: 2%;
-    padding-right: 2%;
+    padding: 2%;
     width: 85%;
     height: 430px;
     position: relative;
