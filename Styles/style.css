@@ -366,6 +366,10 @@ body{
     position: absolute;
     box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.3);
   }
+  
+  .skills{
+    margin-top:20px;
+  }
 
   .work{
     padding-left: 2%;
@@ -425,7 +429,9 @@ body{
     position: absolute;
     box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.3);
   }
-
+   .skills{
+    margin-top:20px;
+  }
   .work{
     padding-left: 2%;
     padding-right: 2%;
