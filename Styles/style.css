@@ -9,6 +9,9 @@ body{
 .imageHeader{
   background-image: url("../images/headerImage.jpg");
   background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
   background-position: top center;
   background-attachment: fixed;
   height: 750px;
@@ -281,6 +284,9 @@ body{
   .imageHeader{
     background-image: url("../images/smallHeaderImage.jpg");
     background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     background-position: top center;
     background-attachment: fixed;
     height: 750px;
@@ -345,6 +351,9 @@ body{
   .imageHeader{
     background-image: url("../images/smallHeaderImage.jpg");
     background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     background-position: top center;
     background-attachment: fixed;
     height: 750px;
@@ -408,6 +417,9 @@ body{
   .imageHeader{
     background-image: url("../images/smallHeaderImage.jpg");
     background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     background-position: top center;
     background-attachment: fixed;
     height: 750px;
